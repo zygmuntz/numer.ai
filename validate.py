@@ -9,7 +9,7 @@ from sklearn.ensemble import RandomForestClassifier as RF
 from sklearn.metrics import roc_auc_score as AUC
 from sklearn.metrics import accuracy_score as accuracy
 
-input_file = 'data/numerai_training_data.csv'
+input_file = 'data/orig/numerai_training_data.csv'
 
 #
 
