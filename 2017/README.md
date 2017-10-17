@@ -7,8 +7,8 @@ Code for checking consistency of predictions. Usage:
 Example output:
 
 	$ ./check_consistency.py predictions/p.csv data/test.csv
-	loading data/test.csv...
 	loading predictions/p.csv...
+	loading data/test.csv...
 	
 	era86 6091 69.06% True
 	era87 6079 68.61% True
